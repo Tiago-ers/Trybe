@@ -1,5 +1,5 @@
 let num1= 35;
-let num2=47;
+let num2=40;
 let num3=17;
 let resultado = null;
 
