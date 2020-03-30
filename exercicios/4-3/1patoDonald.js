@@ -25,7 +25,7 @@ var curso = {
       html: {
         descricao: "HTML + CSS",
         semana: [2, 3],
-        tipo: "prática",
+        tipo: "pratica",
         estado: "em andamento"
       }
     },
